@@ -8,8 +8,6 @@ For this project, I created a employee directory with React where users are able
 
 [Here](https://github.com/alyscorpio/employee-directory) is a link to the application's GitHub repository.
 
-![screenshot of application](./assets/images/weather-dashboard.png)
-
 ## Contributing
 This application was created by Alys Dickerson under the direction of UCLA Coding Bootcamp.
 
